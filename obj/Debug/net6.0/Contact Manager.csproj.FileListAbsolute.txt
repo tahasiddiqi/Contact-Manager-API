@@ -1,0 +1,27 @@
+C:\Users\Lenovo\source\repos\Contact Manager\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lenovo\source\repos\Contact Manager\bin\Debug\net6.0\appsettings.json
+C:\Users\Lenovo\source\repos\Contact Manager\bin\Debug\net6.0\Contact Manager.exe
+C:\Users\Lenovo\source\repos\Contact Manager\bin\Debug\net6.0\Contact Manager.deps.json
+C:\Users\Lenovo\source\repos\Contact Manager\bin\Debug\net6.0\Contact Manager.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Contact Manager\bin\Debug\net6.0\Contact Manager.dll
+C:\Users\Lenovo\source\repos\Contact Manager\bin\Debug\net6.0\Contact Manager.pdb
+C:\Users\Lenovo\source\repos\Contact Manager\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Lenovo\source\repos\Contact Manager\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lenovo\source\repos\Contact Manager\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lenovo\source\repos\Contact Manager\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lenovo\source\repos\Contact Manager\obj\Debug\net6.0\Contact Manager.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Contact Manager\obj\Debug\net6.0\Contact Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Contact Manager\obj\Debug\net6.0\Contact Manager.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Contact Manager\obj\Debug\net6.0\Contact Manager.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Contact Manager\obj\Debug\net6.0\Contact Manager.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Contact Manager\obj\Debug\net6.0\Contact Manager.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Contact Manager\obj\Debug\net6.0\Contact Manager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\Contact Manager\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lenovo\source\repos\Contact Manager\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lenovo\source\repos\Contact Manager\obj\Debug\net6.0\scopedcss\bundle\Contact Manager.styles.css
+C:\Users\Lenovo\source\repos\Contact Manager\obj\Debug\net6.0\Contact Manager.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\Contact Manager\obj\Debug\net6.0\Contact Manager.dll
+C:\Users\Lenovo\source\repos\Contact Manager\obj\Debug\net6.0\refint\Contact Manager.dll
+C:\Users\Lenovo\source\repos\Contact Manager\obj\Debug\net6.0\Contact Manager.pdb
+C:\Users\Lenovo\source\repos\Contact Manager\obj\Debug\net6.0\Contact Manager.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Contact Manager\obj\Debug\net6.0\ref\Contact Manager.dll
