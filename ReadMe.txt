@@ -2,7 +2,7 @@
 
 Introduction: Start your README with a brief introduction to the project. Mention that it's a .NET 6 Web API for managing contacts and that it uses PostgreSQL as the database.
 
-Prerequisites: Include a section that lists the prerequisites for running the project. Mention that users should have .NET 6 SDK and PostgreSQL installed.
+Prerequisites: Include a section that lists the prerequisites for running the project. Users should have .NET 6 SDK and PostgreSQL installed.
 To get started with the Contact Manager API, follow these simple steps:
 
 Packages Required: (latest versions)
